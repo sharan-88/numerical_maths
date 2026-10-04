@@ -1,3 +1,4 @@
+https://sharan-88.github.io/numerical_maths/
 # Interactive Numerical Methods Visualizer
 
 A client-side project for the VTU course **Numerical Methods and Applications**. It needs no backend and no database; everything runs in the browser.
