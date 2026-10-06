@@ -85,6 +85,15 @@ Each method file contains its algorithm function, a `run` function (reads inputs
 | BVP y''=2, y(0)=0, y(1)=1 | y = x², midpoint 0.25 |
 | Laplace 8×8, top = 100 | converges in about 60 iterations |
 
+## Few Samples 
+
+![Screenshot 1](Screenshot%202026-10-02%20104307.png)
+![Screenshot 2](Screenshot%202026-10-02%20115638.png)
+![Screenshot 3](Screenshot%202026-10-02%20120001.png)
+![Screenshot 5](Screenshot%202026-10-02%20120111.png)
+![Screenshot 6](Screenshot%202026-10-02%20120124.png)
+
+
 ## 8. Limitations
 - Gauss-Jordan is limited to 10 equations; its 3D view works for 3×3 only.
 - Plots use automatic scaling; very steep functions may look clipped.
